@@ -14,7 +14,7 @@ struct Mainview: View {
     var body: some View {
         
         ZStack {
-            Color.blue.ignoresSafeArea(.all)
+            Color.red.ignoresSafeArea(.all)
         }
         
         Text("This is a test")
