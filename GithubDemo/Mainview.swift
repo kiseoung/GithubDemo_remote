@@ -14,10 +14,10 @@ struct Mainview: View {
     var body: some View {
         
         ZStack {
-            Color.red.ignoresSafeArea(.all)
+            Color.orange.ignoresSafeArea(.all)
         }
         
-        Text("This is a test")
+        Text("Thiasdasdasdasd")
             .padding()
     }
 }
