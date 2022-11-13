@@ -17,7 +17,7 @@ struct Mainview: View {
             Color.orange.ignoresSafeArea(.all)
         }
         
-        Text("This is a test")
+        Text("Thiasdasdasdasd")
             .padding()
     }
 }
